@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948865334135",
+    "project_id": "lunalog-9d313",
+    "storage_bucket": "lunalog-9d313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948865334135:android:473bb7f4ed9694c4097f72",
+        "android_client_info": {
+          "package_name": "com.example.a5046"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948865334135-rh8sj0b6ebluu1smi91gbo7jem1gnne3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a5046",
+            "certificate_hash": "574d0cd6874af3b4b4422ad91edd37da1deb4cc3"
+          }
+        },
+        {
+          "client_id": "948865334135-nt429n6jmgbhndd215hotm77du7818ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeo7GWj_8KfaPxYxLbTBcSdsGmfErngVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948865334135-nt429n6jmgbhndd215hotm77du7818ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
